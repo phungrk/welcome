@@ -1,29 +1,22 @@
 # Tool, Software
 
-1. [Source tree](https://www.sourcetreeapp.com/) (Git GUI)
-2. [DiffMerge](https://sourcegear.com/diffmerge/) (Conflict resolved tool)
-2. [Visual Studio Code](https://code.visualstudio.com/) (Text Editor)
-3. [Photoshop](http://www.photoshop.com/)
+1. Source tree:[Homepage](https://www.sourcetreeapp.com/) (Git GUI) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki)
+2. DiffMerge: [Homepage](https://sourcegear.com/diffmerge/) (Conflict resolved tool) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki/How-to-resolve-conflicts)
+2. Visual Studio Code: [Homepage](https://code.visualstudio.com/) (Text Editor) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki/visual-studio-code)
+3. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop)
 
 # Knowleages 
 
-## Tool
-
-1. [Source tree](https://github.com/riv-dev/git/wiki)
-2. [DiffMerge](https://github.com/riv-dev/git/wiki/How-to-resolve-conflicts)
-2. [Visual Studio Code](https://github.com/riv-dev/git/wiki/visual-studio-code) 
-3. [Photoshop](https://github.com/riv-dev/photoshop)
-
 ## Frontend 
 
-1. [Sass](https://github.com/riv-dev/sass)
-2. [Compass](https://github.com/riv-dev/compass)
-3. [HTML](https://github.com/riv-dev/html)
-4. [Handlebars](https://github.com/riv-dev/handlebars)
-5. [Grunt](https://github.com/riv-dev/grunt)
-6. [Gulp](https://github.com/riv-dev/gulp)
-7. [Webpack](https://github.com/riv-dev/webpack)
-8. [Nodejs](https://github.com/riv-dev/nodejs)
+1. Sass: [Homepage](http://sass-lang.com/) | [RIV Dev wiki](https://github.com/riv-dev/sass)
+2. Compass: [Homepage](http://compass-style.org/) | [RIV Dev wiki](https://github.com/riv-dev/compass)
+3. HTML: [Homepage](https://www.w3.org/html/) | [RIV Dev wiki](https://github.com/riv-dev/html)
+4. Handlebars: [Homepage](http://handlebarsjs.com/) | [RIV Dev wiki](https://github.com/riv-dev/handlebars)
+5. Grunt: [Homepage](http://gruntjs.com/) | [RIV Dev wiki](https://github.com/riv-dev/grunt)
+6. Gulp: [Homepage](http://gulpjs.com/) | [RIV Dev wiki](https://github.com/riv-dev/gulp)
+7. Webpack: [Homepage](https://webpack.github.io/) | [RIV Dev wiki](https://github.com/riv-dev/webpack)
+8. Nodejs: [Homepage](https://nodejs.org/en/)| [RIV Dev wiki](https://github.com/riv-dev/nodejs)
 
 ## Backend
 
