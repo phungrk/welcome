@@ -1,13 +1,22 @@
 # Tool, Software
 
-1. Source tree (Git GUI)
-2. Visual Studio Code (Text Editor)
-3. Photoshop
+1. [Source tree](https://www.sourcetreeapp.com/) (Git GUI)
+2. [DiffMerge](https://sourcegear.com/diffmerge/) (Conflict resolved tool)
+2. [Visual Studio Code](https://code.visualstudio.com/) (Text Editor)
+3. [Photoshop](http://www.photoshop.com/)
 
 # Knowleages 
 
-1. [Git](https://github.com/riv-dev/git)
-2. [Sass](https://github.com/riv-dev/sass)
+## Tool
+
+1. [Source tree](https://github.com/riv-dev/git/wiki)
+2. [DiffMerge](https://github.com/riv-dev/git/wiki/How-to-resolve-conflicts)
+2. [Visual Studio Code](https://github.com/riv-dev/git/wiki/visual-studio-code) 
+3. [Photoshop](https://github.com/riv-dev/photoshop)
+
+## Frontend 
+
+1. [Sass](https://github.com/riv-dev/sass)
 2. [Compass](https://github.com/riv-dev/compass)
 3. [HTML](https://github.com/riv-dev/html)
 4. [Handlebars](https://github.com/riv-dev/handlebars)
@@ -15,7 +24,14 @@
 6. [Gulp](https://github.com/riv-dev/gulp)
 7. [Webpack](https://github.com/riv-dev/webpack)
 8. [Nodejs](https://github.com/riv-dev/nodejs)
+
+## Backend
+
+## Mobile 
+
+## 
 ...
+
 If you click the link, you meet 404, it meen that waiting your contribute :smile: 
 
 # Work
