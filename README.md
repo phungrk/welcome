@@ -6,11 +6,11 @@
 
 # Knowleages 
 
-1. Git
-2. Sass
-2. Compass
-3. HTML
-4. Handlebars
+1. [Git](https://github.com/riv-dev/git)
+2. [Sass](https://github.com/riv-dev/sass)
+2. [Compass](https://github.com/riv-dev/compass)
+3. [HTML](https://github.com/riv-dev/html)
+4. [Handlebars](https://github.com/riv-dev/handlebars)
 5. Grunt
 6. Gulp
 7. Webpack
