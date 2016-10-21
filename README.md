@@ -42,6 +42,10 @@ Depend on your hoppy, but I think you should create at least 2 folders like belo
 4. Create `projects`folder for projects's source:  `mkdir projects`
 5. Create `lab` folder for reseaching:     `mkdir lab`
 
+## Email setting
+
+
+
 ## Mac useful shortkey 
 
 Refs: https://support.apple.com/en-us/HT201236
