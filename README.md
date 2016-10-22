@@ -42,9 +42,19 @@ Depend on your hoppy, but I think you should create at least 2 folders like belo
 4. Create `projects`folder for projects's source:  `mkdir projects`
 5. Create `lab` folder for reseaching:     `mkdir lab`
 
-## Email setting
+## Email 
+
+### Step 1
+[mac mail add account](!https://github.com/riv-dev/welcome/blob/master/images/mac-mail-add-account.png)
+
+### Step 2
+
+[mac mail google](!https://github.com/riv-dev/welcome/blob/master/images/mac-mail-google.png)
 
 
+### Step 3
+
+[mac mail sign in](!https://github.com/riv-dev/welcome/blob/master/images/mac-mail-sign-in.png)
 
 ## Mac useful shortkey 
 
