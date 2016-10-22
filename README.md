@@ -70,9 +70,9 @@ Refs: https://support.apple.com/en-us/HT201236
 | Control   | ⌃    |
 | Caps Lock | ⇪    |
 
-### 1. Quick open an app: 
+### 1. Quick open an app/file/folder: 
 - `⌘+Space bar`
-- Type app name. You can type some word then Space to complete app name 
+- Type app/file/folder name. You can type some word then Space to complete app name 
 - `Enter` 
 
 ### 2. Switch app 
