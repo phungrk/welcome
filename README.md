@@ -45,16 +45,16 @@ Depend on your hoppy, but I think you should create at least 2 folders like belo
 ## Email 
 
 ### Step 1
-[mac mail add account](!https://github.com/riv-dev/welcome/blob/master/images/mac-mail-add-account.png)
+![mac mail add account](https://github.com/riv-dev/welcome/blob/master/images/mac-mail-add-account.png)
 
 ### Step 2
 
-[mac mail google](!https://github.com/riv-dev/welcome/blob/master/images/mac-mail-google.png)
+![mac mail google](https://github.com/riv-dev/welcome/blob/master/images/mac-mail-google.png)
 
 
 ### Step 3
 
-[mac mail sign in](!https://github.com/riv-dev/welcome/blob/master/images/mac-mail-sign-in.png)
+![mac mail sign in](https://github.com/riv-dev/welcome/blob/master/images/mac-mail-sign-in.png)
 
 ## Mac useful shortkey 
 
