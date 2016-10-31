@@ -4,8 +4,8 @@
 
 1. Source tree :[Homepage](https://www.sourcetreeapp.com/) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki)
 2. DiffMerge: [Homepage](https://sourcegear.com/diffmerge/) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki/How-to-resolve-conflicts)
-2. Visual Studio Code: [Homepage](https://code.visualstudio.com/) | [RIV Dev wiki](https://github.com/riv-dev/visual-studio-code)
-3. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop)
+2. Visual Studio Code: [Homepage](https://code.visualstudio.com/) | [RIV Dev wiki](https://github.com/riv-dev/Visual-Studio-Code/wiki)
+3. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop/wiki)
 
 ## Chrome extensions: 
 
