@@ -16,6 +16,19 @@
 3. [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 4. [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
 
+## Project Environment 
+
+1. Install Node.js 
+2. Install bundle.
+3. Project environment preration. 
+
+```
+1. cd PATH/TO/PROJECT/../_dev
+2. npm i
+3. bundle i
+4. grunt 
+```
+
 # Knowleages 
 
 ## Frontend 
