@@ -6,7 +6,8 @@
 2. DiffMerge: [Homepage](https://sourcegear.com/diffmerge/) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki/How-to-resolve-conflicts)
 3. Visual Studio Code: [Homepage](https://code.visualstudio.com/) | [RIV Dev wiki](https://github.com/riv-dev/Visual-Studio-Code/wiki)
 4. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop/wiki)
-5. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
+5. Dropbox: [Homepage](https://www.dropbox.com)
+6. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
 
 ## Chrome extensions: 
 
