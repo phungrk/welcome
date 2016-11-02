@@ -19,7 +19,7 @@
 ## Project Environment 
 
 1. [Install Node.js](https://github.com/riv-dev/nodejs/wiki/Install-Nodejs)
-2. Install bundle.
+2. Install bundle. `sudo gem install bundle`
 3. Project environment preration. 
 
 ```
