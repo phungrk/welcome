@@ -21,8 +21,8 @@
 ## Project Environment 
 
 1. [Install Node.js](https://github.com/riv-dev/nodejs/wiki/Install-Nodejs)
-2. `npm i grunt-cli -g`
-3. Install bundle. `sudo gem install bundle`
+2. Install `grunt-cli`: `npm i grunt-cli -g`
+3. Install `bundle`: `sudo gem install bundle`
 4. Project environment preration. 
 
 ```
