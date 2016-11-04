@@ -9,7 +9,7 @@
 5. Dropbox: [Homepage](https://www.dropbox.com)
 6. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
 7. VirtualBox: [Homepage](https://www.virtualbox.org/wiki/Downloads)
-8. GenyMotion: [Homepage](https://www.genymotion.com/) 
+8. GenyMotion: [Homepage](https://www.genymotion.com/) | [Hướng dẫn sử dụng](https://github.com/riv-dev/welcome/wiki/_genymotion)
 
 ## Chrome extensions: 
 
