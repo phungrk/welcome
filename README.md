@@ -66,7 +66,7 @@ Depend on your hoppy, but I think you should create at least 2 folders like belo
 1. Open terminal 
 2. Create workspace: `mkdir workspace`
 3. Get into workspace: `cd workspace`
-4. Create `projects`folder for projects's source:  `mkdir projects` . Then [set this `projects` folder as the default to clone new project](https://github.com/riv-dev/git/wiki/Setting#general-setting)
+4. Create `projects`folder for projects's source:  `mkdir projects` . Then [set this `projects` folder as the default when clone new project](https://github.com/riv-dev/git/wiki/Setting#general-setting)
 5. Create `lab` folder for reseaching:     `mkdir lab`
 
 ## Email 
