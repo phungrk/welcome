@@ -8,8 +8,10 @@
 4. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop/wiki)
 5. Dropbox: [Homepage](https://www.dropbox.com)
 6. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
-7. VirtualBox: [Homepage](https://www.virtualbox.org/wiki/Downloads)
-8. GenyMotion: [Homepage](https://www.genymotion.com/) | [Hướng dẫn sử dụng](https://github.com/riv-dev/welcome/wiki/_genymotion)
+7. Testing
+    - VirtualBox: [Homepage](https://www.virtualbox.org/wiki/Downloads)
+    - GenyMotion: [Homepage](https://www.genymotion.com/) | [Hướng dẫn sử dụng](https://github.com/riv-dev/welcome/wiki/_genymotion)
+    - IE: [Free Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
 ## Chrome extensions: 
 
