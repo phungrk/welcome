@@ -36,6 +36,10 @@
 
 # Knowleages 
 
+## Tech Talk checklist 
+
+https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
+
 ## Frontend 
 
 1. Sass: [Homepage](http://sass-lang.com/) | [RIV Dev wiki](https://github.com/riv-dev/sass)
