@@ -11,7 +11,7 @@
 7. Testing
     - VirtualBox: [Homepage](https://www.virtualbox.org/wiki/Downloads)
     - GenyMotion: [Homepage](https://www.genymotion.com/) | [Hướng dẫn sử dụng](https://github.com/riv-dev/welcome/wiki/_genymotion)
-    - IE: [Free Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+    - IE: [Free Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
     - [Install Window Virtual Machine with VirtualBox](https://drive.google.com/drive/u/0/folders/0B2x6OMK4si7seWRfcDg0RkQ4Vjg)
     
     
