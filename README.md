@@ -44,7 +44,7 @@
 2. Use `min-width` instead of `max-width` at breakpoint.
 3. Use `em` for line-height.
 4. Use `px`, don't use `%, rem, ...` for font-size
-5. When hover, use `a` tag.
+5. When hover, use `a` tag. Never apply hover effect for Smartphone.  
 
 ## Tech Talk checklist 
 
