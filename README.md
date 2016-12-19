@@ -45,6 +45,16 @@
 3. Use `em` for line-height.
 4. Use `px`, don't use `%, rem, ...` for font-size
 5. When hover, use `a` tag. Never apply hover effect for Smartphone.  
+   ```css
+    .xyz {
+        @media(min-width: $screen-md-min) {
+            @include transition(0.2s);
+            &:hover {
+                ...
+            }
+        }
+    }
+   ```
 
 ## Tech Talk checklist 
 
