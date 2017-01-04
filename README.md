@@ -41,10 +41,10 @@
 ## Some coding rules:
 
 1. Add `@charset "utf-8";` at the first of file. (To avoid mojibake error with Japanese when compile files on Windows environment )
-2. Use `min-width` instead of `max-width` at breakpoint.
+2. Use `min-width` instead of `max-width` as breakpoint.
 3. Use `em` for line-height.
 4. Use `px`, don't use `%, rem, ...` for font-size
-5. When hover, use `a` tag. Never apply hover effect for Smartphone.
+5. When hover, use `a` tag. Never apply hover effect on Smartphone.
 
    ```css
     .xyz {
