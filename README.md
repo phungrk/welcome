@@ -5,7 +5,7 @@
 1. Source tree :[Homepage](https://www.sourcetreeapp.com/) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki)
 2. DiffMerge: [Homepage](https://sourcegear.com/diffmerge/) | [RIV Dev wiki](https://github.com/riv-dev/git/wiki/How-to-resolve-conflicts)
 3. Visual Studio Code: [Homepage](https://code.visualstudio.com/) | [RIV Dev wiki](https://github.com/riv-dev/Visual-Studio-Code/wiki)
-4. Japanese: [RIV Dev wiki](https://github.com/riv-dev/Visual-Studio-Code/wiki)
+4. Japanese: [RIV Dev wiki](https://github.com/riv-dev/Japanese-font-families)
 5. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop/wiki)
 6. Dropbox: [Homepage](https://www.dropbox.com)
 7. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
