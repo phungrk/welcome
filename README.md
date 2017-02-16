@@ -47,7 +47,7 @@
 4. Use `px`, don't use `%, rem, ...` for font-size
 5. When hover, use `a` tag. Never apply hover effect on Smartphone.
 
-   ```css
+ ```css
     .xyz {
         @media(min-width: $screen-md-min) {
             @include transition(0.2s);
@@ -56,8 +56,15 @@
             }
         }
     }
-   ```
+ ```
+ 
  6. Button 
+ 
+ Don't fixed padding left, right for button.
+ Do padding left, right 10px. 
+ 
+ ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
+ 
 ## Tech Talk checklist 
 
 https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
