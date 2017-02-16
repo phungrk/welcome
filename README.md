@@ -56,9 +56,9 @@
         }
     }
    ```
- 6. Button 
- Don't fixed padding left, right for button.
- Do padding left, right 10px. 
+6. Button 
+   Don't fixed padding left, right for button.
+   Do padding left, right 10px. 
  
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
  
