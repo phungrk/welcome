@@ -65,12 +65,16 @@
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
 7. Don't make style directly on selector. Let create class for it, then apply style for the 
 
-  ```Don't
+  *Don't* 
+  
+  ```
   .map__list li {
     color:red;
   }
   ```
-
+  
+  *Do*
+  Create class for li, then make style for that class.
   ```
   .map__list map__item {
     color:red;
