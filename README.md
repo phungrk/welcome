@@ -85,6 +85,7 @@
    <small>Copyright (C) Okinawa Beach Soccer Camp</small>
    ```
 9. Use `h1` for `logo`
+10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
  
 ## Tech Talk checklist 
 
