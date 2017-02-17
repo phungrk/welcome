@@ -63,11 +63,25 @@
    Do padding left, right 10px. 
  
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
-7. Use `small` tag for Copyright: 
-   ```
+7. Don't make style directly on selector. Let create class for it, then apply style for the 
+
+  ```Don't
+  .map__list li {
+    color:red;
+  }
+  ```
+
+  ```
+  .map__list map__item {
+    color:red;
+  }
+  ```
+  
+8. Use `small` tag for Copyright: 
+   ```
    <small>Copyright (C) Okinawa Beach Soccer Camp</small>
-   ```
-8. Use `h1` for `logo`
+   ```
+9. Use `h1` for `logo`
  
 ## Tech Talk checklist 
 
