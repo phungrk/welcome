@@ -66,19 +66,19 @@
  
 7. Don't make style directly on a `tag`. Let create class for it, then apply style for the 
     
-Don't:
-```
-   .map__list li {
-        color:red;
-   }
-```
-Do: Create class for li, then make style for that class.
-  
-```
-	.map__list map__item {
+ Don't:
+	```
+	   .map__list li {
 		color:red;
-	}
-```
+	   }
+	```
+ Do: Create class for li, then make style for that class.
+  
+	```
+		.map__list map__item {
+			color:red;
+		}
+	```
 
 8. Use `small` tag for Copyright: 
    ```
