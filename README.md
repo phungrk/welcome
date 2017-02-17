@@ -86,6 +86,7 @@
    ```
 9. Use `h1` for `logo`
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
+11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
  
 ## Tech Talk checklist 
 
