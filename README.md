@@ -67,7 +67,7 @@
    ```
    <small>Copyright (C) Okinawa Beach Soccer Camp</small>
    ```
-8. Use `h1` for 
+8. Use `h1` for `logo`
  
 ## Tech Talk checklist 
 
