@@ -65,20 +65,23 @@
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
  
 7. Instead of styling a specific `tag`, create and apply a class that describes the `tag`. 
-  
+
  Don't:
-	```	
+ 
+ ```	
    .map__list li {
 		color:red;	
    }
-	```
+ ```
+ 
  Do: Create class for li, then make style for that class.
-  
-	```
-		.map__list map__item {
-			color:red;
-		}
-	```
+ 
+ ```
+ 	.map__list map__item {
+		color:red;
+	}
+ ```
+	
 	
  Ref: [Separate container and content](https://github.com/stubbornella/oocss/wiki#separate-container-and-content)
  
