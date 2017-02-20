@@ -64,16 +64,16 @@
  
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
  
-7. Don't make style directly on a `tag`. Let create class for it, then apply style for the 
-    
+7. Don't make style directly on a `tag`. Let create class, then apply style for th class.
+    
  Don't:
-	```
-	   .map__list li {
-		color:red;
-	   }
+	```	
+   .map__list li {
+		color:red;	
+   }
 	```
  Do: Create class for li, then make style for that class.
-  
+  
 	```
 		.map__list map__item {
 			color:red;
@@ -87,7 +87,7 @@
 9. Use `h1` for `logo`
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
- 
+12. Use `js-` prefixed class names for selector that need `javascript` code. Never reference js- prefixed class names from CSS files. `js-` are used exclusively from JS files.
 ## Tech Talk checklist 
 
 https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
