@@ -64,7 +64,7 @@
  
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
  
-7. Instead of styling a specific `tag`, create and apply a class that describes the `tag`. Ref: [Separate container and content](https://github.com/stubbornella/oocss/wiki#separate-container-and-content)
+7. Instead of styling a specific `tag`, create and apply a class that describes the `tag`. 
   
  Don't:
 	```	
@@ -79,7 +79,9 @@
 			color:red;
 		}
 	```
-
+	
+ Ref: [Separate container and content](https://github.com/stubbornella/oocss/wiki#separate-container-and-content)
+ 
 8. Use `small` tag for Copyright: 
    ```
    <small>Copyright (C) Okinawa Beach Soccer Camp</small>
