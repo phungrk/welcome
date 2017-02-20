@@ -83,7 +83,7 @@
  ```
 	
 	
- Ref: [Separate container and content](https://github.com/stubbornella/oocss/wiki#separate-container-and-content)
+ Ref: [Two Main Principles of OOCSS](https://github.com/stubbornella/oocss/wiki#two-main-principles-of-oocss)
  
 8. Use `small` tag for Copyright: 
    ```
@@ -93,6 +93,10 @@
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
 12. Use `js-` prefixed class names for selector that need `javascript` code. Never reference js- prefixed class names from CSS files. `js-` are used exclusively from JS files.
+13. Use absolute path for `og:image`. For example: 
+```
+<meta property="og:image" content="/common/images/_ogp_fb.jpg">
+```
 ## Tech Talk checklist 
 
 https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
