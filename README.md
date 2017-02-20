@@ -64,8 +64,8 @@
  
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
  
-7. Don't make style directly on a `tag`. Let create class, then apply style for th class.
-    
+7. Instead of styling a specific `tag`, create and apply a class that describes the `tag`. Ref: (Separate container and content)[https://github.com/stubbornella/oocss/wiki#separate-container-and-content]
+  
  Don't:
 	```	
    .map__list li {
