@@ -43,7 +43,7 @@
 
 1. Add `@charset "utf-8";` at the first of file. (To avoid mojibake error with Japanese when compile files on Windows environment ). You can use [file template](https://github.com/riv-dev/Visual-Studio-Code/wiki/file-template) to so this problem automatically when add new file.
 2. Use `min-width` instead of `max-width` as breakpoint.
-3. Use `px` for `font-size`,don't use `%, rem, ...` , because it offers absolute control over text.
+3. Use `px` for `font-size`,don't use `em, rem, %...` , because it offers absolute control over text.
 4. Use `em` for `line-height`, because em can change dynamically with the font in use.
 5. When hover, use `a` tag. Never apply hover effect on Smartphone.
 
