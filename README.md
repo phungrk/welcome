@@ -40,30 +40,75 @@
 # Knowleages 
 
 ## Some coding rules:
+Coding rule 
 
 1. Add `@charset "utf-8";` at the first of file. (To avoid mojibake error with Japanese when compile files on Windows environment ). You can use [file template](https://github.com/riv-dev/Visual-Studio-Code/wiki/file-template) to so this problem automatically when add new file.
 2. Use `min-width` instead of `max-width` as breakpoint.
 3. Use `px` for `font-size`,don't use `em, rem, %...` , because it offers absolute control over text.
 4. Use `em` for `line-height`, because em can change dynamically with the font in use.
-5. When hover, use `a` tag. Never apply hover effect on Smartphone.
+5. Hover: is default apply for `Link`, `Button` on PC even if have no hover guide for this. 
 
-   ```css
-    .xyz {
-        @media(min-width: $screen-md-min) {
-            @include transition(0.2s);
-            &:hover {
-                ...
-            }
-        }
-    }
-   ```
-   
+
+	 ```css 
+	    .xyz {
+	        @media(min-width: $screen-md-min) {
+	            @include transition(0.2s);
+	            &:hover {
+	                ...
+	            }
+	        }
+	    }
+	 ```
+	 
+	 - If `text` link: 
+	 
+	 ```css 
+	    .xyz {
+	        @media(min-width: $screen-md-min) {
+	            @include transition(0.2s);
+	            &:hover {
+	                text-decoration: underline; 
+	                //or 
+	                text-decoration: none;
+	            }
+	        }
+	    }
+	 ```
+	 - If `img` link: 
+	 
+	 ```css
+	    .xyz {
+	        @media(min-width: $screen-md-min) {
+	            @include transition(0.2s);
+	            &:hover {
+	                @include opacity(0.8);
+	            }
+	        }
+	    }
+	 ```
+	 - If `button`:
+ 
+	 ```css
+	    .xyz {
+	        @media(min-width: $screen-md-min) {
+	            @include transition(0.2s);
+	            &:hover {
+	               @include opacity(0.8);
+	               //or
+	               // invert background color.
+	            }
+	        }
+	    }
+	   ```
+
+
+
 6. Button 
    Don't fixed padding left, right for button.
    Do padding left, right 10px. 
  
  ![button coding rule](https://github.com/riv-dev/welcome/blob/master/images/button.png)
- 
+
 7. Instead of styling a specific `tag`, create and apply a class that describes the `tag`. 
 
  Don't:
@@ -85,18 +130,35 @@
 	
  Ref: [Two Main Principles of OOCSS](https://github.com/stubbornella/oocss/wiki#two-main-principles-of-oocss)
  
-8. Use `small` tag for Copyright: 
-   ```
-   <small>Copyright (C) Okinawa Beach Soccer Camp</small>
-   ```
-9. Use `h1` for `logo`
+8. Use `small` tag for Copyright:
+
+ ```
+ <small>Copyright (C) Okinawa Beach Soccer Camp</small>
+ ```
+
+9. Heading tag  
+![Heading Tag](http://3.bp.blogspot.com/-nD60Ae-nbrg/TlPMbk3eGLI/AAAAAAAAAvY/8vGMNH1YVkw/s1600/heading-subheads.gif)
+	We usually use `h1` for `logo`, `page title`.
+	
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
 12. Use `js-` prefixed class names for selector that need `javascript` code. Never reference js- prefixed class names from CSS files. `js-` are used exclusively from JS files.
-13. Use absolute path for `og:image`. For example: 
-```
-<meta property="og:image" content="/common/images/_ogp_fb.jpg">
-```
+13. Use root path, don't use relative path unless you have a specific reason.
+
+ ```
+ <meta property="og:image" content="/common/images/_ogp_fb.jpg">
+
+ <img src="/common/images/image.jpg">
+
+ .example {
+  background-image: url("/common/images/pages/top/_bg_sp.jpg");
+ }
+ ```
+14. [Void Elements](https://www.w3.org/TR/html51/syntax.html#void-elements) only have a start tag; end tags must not be specified
+For. ex `<br>`, `<img>`, `<meta>`, `<input>` ...
+
+15. Add `<meta name="format-detection" content="telephone=no">` to `head`
+
 ## Tech Talk checklist 
 
 https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
