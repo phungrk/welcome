@@ -144,7 +144,6 @@ Coding rule
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
 12. Use `js-` prefixed class names for selector that need `javascript` code. Never reference js- prefixed class names from CSS files. `js-` are used exclusively from JS files.
 13. Use root path, don't use relative path unless you have a specific reason.
-
  ```
  <meta property="og:image" content="/common/images/_ogp_fb.jpg">
 
@@ -158,7 +157,7 @@ Coding rule
 For. ex `<br>`, `<img>`, `<meta>`, `<input>` ...
 
 15. Add `<meta name="format-detection" content="telephone=no">` to `head`
-
+16. Use compass mixins : https://github.com/riv-dev/compass/wiki/Common-Compass-Mixins
 ## Tech Talk checklist 
 
 https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
