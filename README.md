@@ -137,8 +137,14 @@ Coding rule
  <small>Copyright (C) Okinawa Beach Soccer Camp</small>
  ```
 
-9. Heading tag  
-![Heading Tag](http://3.bp.blogspot.com/-nD60Ae-nbrg/TlPMbk3eGLI/AAAAAAAAAvY/8vGMNH1YVkw/s1600/heading-subheads.gif)
+9. Heading tag
+
+![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729849headings-1-6.png)
+
+will have Document Outline:
+
+![Heading Tag](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729864heading-document-outline.png)
+
 We usually use `h1` for `logo`, `page title`.
 	
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
