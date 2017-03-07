@@ -139,13 +139,13 @@ Coding rule
 
 9. Heading tag
 
-![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729849headings-1-6.png)
+ ![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729849headings-1-6.png)
 
-will have Document Outline:
+ will have Document Outline:
 
-![Heading Tag](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729864heading-document-outline.png)
+ ![Heading Tag](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729864heading-document-outline.png)
 
-We usually use `h1` for `logo`, `page title`.
+ We usually use `h1` for `logo`, `page title`.
 	
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
