@@ -9,6 +9,7 @@
 5. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop/wiki)
 6. Dropbox: [Homepage](https://www.dropbox.com)
 7. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
+8. Vagrant: [Homepage](https://www.vagrantup.com/)
 8. Testing
     - VirtualBox: [Homepage](https://www.virtualbox.org/wiki/Downloads)
     - GenyMotion: [Homepage](https://www.genymotion.com/) | [Hướng dẫn sử dụng](https://github.com/riv-dev/welcome/wiki/_genymotion)
