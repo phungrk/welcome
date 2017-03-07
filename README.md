@@ -139,7 +139,7 @@ Coding rule
 
 9. Heading tag  
 ![Heading Tag](http://3.bp.blogspot.com/-nD60Ae-nbrg/TlPMbk3eGLI/AAAAAAAAAvY/8vGMNH1YVkw/s1600/heading-subheads.gif)
-	We usually use `h1` for `logo`, `page title`.
+We usually use `h1` for `logo`, `page title`.
 	
 10. Don't use `flexbox`, `calc` because of old version of IE, Android is not supported.
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
