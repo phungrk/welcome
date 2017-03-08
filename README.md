@@ -151,18 +151,18 @@ Coding rule
 11. Think about if add/remove elements will effect layout while coding. For example,thinking about if text is added make paragraph more longer, if elements is removed/added...  make margin between elements become ugly ?...
 12. Use `js-` prefixed class names for selector that need `javascript` code. Never reference js- prefixed class names from CSS files. `js-` are used exclusively from JS files.
 13. Use root path, don't use relative path unless you have a specific reason.
- ```
- <img src="/common/images/image.jpg">
+  ```
+   <img src="/common/images/image.jpg">
 
- .example {
-  background-image: url("/common/images/pages/top/_bg_sp.jpg");
- }
- ```
+   .example {
+     background-image: url("/common/images/pages/top/_bg_sp.jpg");
+   }
+  ```
 14. Use absolute path for meta `og:image`
 
-```
- <meta property="og:image" content="http://domain.com/common/images/_ogp_fb.jpg">
-```
+  ```
+   <meta property="og:image" content="http://domain.com/common/images/_ogp_fb.jpg">
+  ```
 15. [Void Elements](https://www.w3.org/TR/html51/syntax.html#void-elements) only have a start tag; end tags must not be specified. For. ex Use `<br>`, `<img>`, `<meta>`, `<input>` ... Don't use `<br/>`, `<img src="" alt="" />`, ...
 16. Add `<meta name="format-detection" content="telephone=no">` to `head`
 17. Use compass mixins : https://github.com/riv-dev/compass/wiki/Common-Compass-Mixins
