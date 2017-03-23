@@ -166,7 +166,7 @@ Coding rule
 15. [Void Elements](https://www.w3.org/TR/html51/syntax.html#void-elements) only have a start tag; end tags must not be specified. For. ex Use `<br>`, `<img>`, `<meta>`, `<input>` ... Don't use `<br/>`, `<img src="" alt="" />`, ...
 16. Add `<meta name="format-detection" content="telephone=no">` to `head`
 17. Use compass mixins : https://github.com/riv-dev/compass/wiki/Common-Compass-Mixins
-
+18. `<a>` tag need `href` attribute.
 ## Tech Talk checklist 
 
 https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrzJyg/edit#gid=0
