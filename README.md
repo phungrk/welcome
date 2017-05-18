@@ -7,7 +7,7 @@
 3. Visual Studio Code: [Homepage](https://code.visualstudio.com/) | [RIV Dev wiki](https://github.com/riv-dev/Visual-Studio-Code/wiki)
 4. Japanese: [RIV Dev wiki](https://github.com/riv-dev/Japanese-font-families)
 5. Photoshop: [Homepage](http://www.photoshop.com/) | [RIV Dev wiki](https://github.com/riv-dev/photoshop/wiki)
-6. Dropbox: [Homepage](https://www.dropbox.com)
+6. Dropbox: [Homepage](https://www.dropbox.com) | [RIV Dev wiki](https://github.com/riv-dev/dropbox/wiki)
 7. AMPPS: [Homepage](http://www.ampps.com/) | [RIV Dev wiki](https://github.com/riv-dev/ampps/wiki)
 8. Vagrant: [Homepage](https://www.vagrantup.com/)
 8. Testing
