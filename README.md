@@ -190,6 +190,10 @@ https://docs.google.com/spreadsheets/d/1ilke0kke4WzsWrf2jLqlG_5NDA_PpeCTnnTQJwrz
 
 ## AI
 
+## Awesome Things
+
+https://github.com/sindresorhus/awesome
+
 ...
 
 If you click the link, you meet 404, it meen that waiting your contribute :smile: 
